@@ -1,0 +1,31 @@
+_repo: The-Chemistry-of-Cookery_53458
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, W. Mattieu (William Mattieu)
+    alias: Williams, William Mattieu
+    birthdate: 1820
+    deathdate: 1892
+    gutenberg_agent_id: '47382'
+    url: http://www.gutenberg.org/2009/agents/47382
+description: ''
+gutenberg_issued: '2016-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking'
+- GITenberg
+tableOfContents: 'Introductory -- The boiling of water -- Albumen -- Gelatin, fibrin,
+  and the juices of meat -- Roasting and grilling -- Count Rumford''s roaster -- Frying
+  -- Stewing -- Cheese -- Fat: milk -- The cookery of vegetables -- Gluten: bread
+  -- Vegetable casein and vegetable juices -- Count Rumford''s cookery and cheap dinners
+  -- Count Rumford''s substitute for tea and coffee -- The cookery of wine -- The
+  vegetarian question -- Malted food -- The physiology of nutrition.'
+title: The Chemistry of Cookery
+url: http://www.gutenberg.org/ebooks/53458
